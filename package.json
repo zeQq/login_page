@@ -2,6 +2,7 @@
   "name": "login_page",
   "private": true,
   "version": "0.0.0",
+  "description": "A modern, interactive login page featuring responsive cartoon characters that follow user cursor and react to input interactions, built with React, Tailwind CSS v4, and Framer Motion.",
   "type": "module",
   "scripts": {
     "dev": "vite",
