@@ -14,10 +14,7 @@
 
 ## 📸 Preview / 预览截图
 
-*(Please add your screenshot/GIF here / 请在此处放置您的截图或录屏)*
-```markdown
-![Login Page Preview](./public/preview.gif)
-```
+![Login Page Preview](./public/preview.png)
 
 ## 🛠️ Tech Stack / 技术栈
 - React 18
