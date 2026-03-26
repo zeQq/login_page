@@ -2,7 +2,7 @@
 
 > A modern, highly interactive login page featuring responsive cartoon characters that follow your cursor and react to your input interactions in real-time. 
 
-**[🔗 Live Demo / 在线预览](#)** *(将在此处更新预览链接)*
+**[🔗 Live Demo / 在线预览](https://login-page-tan-eight.vercel.app/)**
 
 ## ✨ Features / 特性
 - 🖱️ **Mouse Follow**: Characters dynamically track your cursor movement.
